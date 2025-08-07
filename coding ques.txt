@@ -1,0 +1,108 @@
+How do you reverse a string in place?
+How do you print duplicate characters from a string?
+How do you check if two strings are anagrams of each other?
+How do you find all permutations of a string?
+How do you check if a string contains only digits?
+How do you find duplicate characters in a given string?
+How do you count the number of vowels and consonants in a string?
+How do you count the occurrence of a given character in a string?
+How do you print the first non-repeated character from a string?
+How do you convert a given string into int (like atoi)?
+How do you reverse words in a given sentence without using any library method?
+How do you check if two strings are rotations of each other?
+How do you check if a string is a palindrome?
+How do you find the length of the longest substring without repeating characters?
+Given a string str, how do you find the longest palindrome substring in str?
+How do you convert a byte array to String?
+How do you remove a given character from a string?
+How do you find the maximum occurring character in a string?
+How do you check for a prime number?
+
+
+Ques : 
+. What is JavaScript?
+2. What are the data types supported by JavaScript?
+3. What is the difference between `let`, `const`, and `var`?
+4. Explain how `==` and `===` differ.
+5. What is a closure?
+6. What is hoisting?
+7. Explain the concept of "this" in JavaScript.
+8. What are JavaScript prototypes?
+9. What is the difference between `null` and `undefined`?
+10. How does JavaScript handle asynchronous operations?
+11. What is a promise?
+12. What are async/await functions?
+13. Explain event delegation in JavaScript.
+14. What are JavaScript modules?
+15. How can you prevent a function from being called multiple times?
+16. What is the event loop?
+17. What is the difference between `apply()` and `call()` methods?
+18. What is `bind()` method used for?
+19. What is a JavaScript event loop?
+20. Explain the concept of "event bubbling" and "event capturing".
+21. What is the difference between `deep copy` and `shallow copy`?
+22. What are generator functions?
+23. What is the `new` keyword used for?
+24. How do JavaScript’s `setTimeout` and `setInterval` work?
+25. What is a `WeakMap` and how is it different from a `Map`?
+26. What is a `Set` in JavaScript?
+27. What is `Object.create()` used for?
+28. How does JavaScript’s garbage collection work?
+29. What are "decorators" in JavaScript?
+30. Explain the difference between `prototype` and `__proto__`.
+
+New questions :
+1. What is the difference between 'Pass by Value' and 'Pass by Reference'?
+2. What is the difference between map and filter ?
+3. What is the difference between map() and forEach() 
+4. What is the difference between Pure and Impure functions?
+5. What is the difference between for-in and for-of ?
+6. What are the differences between call(), apply() and bind() ?
+7. List out some key features of ES6 ?
+8. What’s the spread operator in javascript ?
+9. What is rest operator in javascript ?
+10. What are DRY, KISS, YAGNI, SOLID Principles ?
+11. What is temporal dead zone ?
+12. Different ways to create object in javascript ?
+13. Whats the difference between Object.keys,values and entries
+14. Whats the difference between Object.freeze() vs Object.seal()
+15. What is a polyfill in javascript ?
+16. What is generator function in javascript ?
+17. What is prototype in javascript ?
+18. What is IIFE ?
+19. What is CORS ?
+20. What are the different datatypes in javascript ?
+21. What are the difference between typescript and javascript ?
+22. What is authentication vs authorization ?
+23. Difference between null and undefined ?
+24. What is the output of 3+2+”7” ?
+25. Slice vs Splice in javascript ?
+26. What is destructuring ?
+27. What is setTimeOut in javascript ?
+28. What is setInterval in javascript ?
+29. What are Promises in javascript ?
+30. What is a callstack in javascript ?
+31. What is a closure ?
+32. What are callbacks in javascript ?
+33. What are Higher Order Functions in javascript ?
+34. What is the difference between == and === in javascript ?
+35. Is javascript a dynamically typed language or a statically typed language 
+36. What is the difference between Indexeddb and sessionstorage ?
+37. What are Interceptors ?
+38. What is Hoisting ?
+39. What are the differences let, var and const ?
+41. Differences between Promise.all, allSettled, any, race ?
+42. What are limitations of arrow functions?
+43. What is difference between find vs findIndex ?
+44. What is tree shaking in javascript ?
+45. What is the main difference between Local Storage and Session storage ?
+46. What is eval() ?
+47. What is the difference between Shallow copy and deep copy ?
+48. What are the difference between undeclared and undefined variables ?
+49. What is event bubbling
+50. What is event capturing ?
+51. What are cookies ?
+52. typeOf operator ?
+53. What is this in javascript and How it behaves in various scenarios ?
+54. How do you optimize the performance of application
+55. What is meant by debouncing and throttling
